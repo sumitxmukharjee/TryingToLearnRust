@@ -1,0 +1,3 @@
+So any programming language can be learnt efficiently by doing projects. So let's make a simple guesssing game project wehre the programm will generate a random integer number between 1 and 100. It will then prompt the player to enter a guess. after a guess is made the program will indicate wheather the guess is too low or too high. If the guess is correct , the game can print a congratulatory message.
+
+The new topics can be learnt here is let, match, methods, associated functions, xternal crates etc.
